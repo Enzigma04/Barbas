@@ -1,0 +1,14 @@
+{
+  "name": "barbas-bot",
+  "version": "1.0.0",
+  "description": "A discord bot for the Minecraft server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Enzigma04",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.8.0"
+  }
+}
